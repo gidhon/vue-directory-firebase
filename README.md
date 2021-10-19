@@ -1,4 +1,4 @@
-# Image Service
+# Entity Directory
  
 Generic user-managed directory SPA built with Vue 3 that leverages the Firebase BAAS for storage and user authentication.
 
